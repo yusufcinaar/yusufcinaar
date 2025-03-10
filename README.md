@@ -55,15 +55,7 @@ Information Systems and Technologies student with a strong foundation in softwar
 - Research Methods
 - Digital Signal Processing
 
-## 🌟 Featured Projects
 
-### Blog Application
-A full-featured blog application built with Flask
-- User authentication
-- Post management
-- Image upload
-- Markdown support
-[![Blog App](https://github-readme-stats.vercel.app/api/pin/?username=yusufcinaar&repo=blog-app)](https://github.com/yusufcinaar/blog-app)
 
 ## 🤝 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yusufcinaar)
