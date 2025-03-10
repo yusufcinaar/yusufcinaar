@@ -65,12 +65,6 @@ A full-featured blog application built with Flask
 - Markdown support
 [![Blog App](https://github-readme-stats.vercel.app/api/pin/?username=yusufcinaar&repo=blog-app)](https://github.com/yusufcinaar/blog-app)
 
-## 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yusufcinaar&show_icons=true&theme=tokyonight)
-
-## 🏆 GitHub Trophies
-![Your GitHub trophies](https://github-profile-trophy.vercel.app/?username=yusufcinaar&theme=onedark)
-
 ## 🤝 Connect with Me
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yusufcinaar)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yusufcinar011@gmail.com)
