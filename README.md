@@ -26,7 +26,6 @@ Information Systems and Technologies student with a strong foundation in softwar
 
 ### Tools & Technologies
 ![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Database](https://img.shields.io/badge/-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Electronics](https://img.shields.io/badge/-Electronics-00979D?style=flat-square&logo=arduino&logoColor=white)
 
