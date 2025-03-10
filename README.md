@@ -1,9 +1,9 @@
 # Hi, I'm Yusuf Çınar 👋
 
 ## About Me
-Computer Engineering student with a strong foundation in software development, web technologies, and data analysis. Passionate about creating innovative solutions and learning new technologies.
+Information Systems and Technologies student with a strong foundation in software development, web technologies, and data analysis. Passionate about creating innovative solutions and learning new technologies.
 
-🎓 Computer Engineering Student at Turkish University  
+🎓 Information Systems and Technologies Student at Turkish University  
 💻 Focused on Web Development & Mobile Applications  
 🌱 Currently learning Advanced Web Technologies and Mobile Development  
 📫 How to reach me: yusufcinar011@gmail.com
@@ -19,6 +19,8 @@ Computer Engineering student with a strong foundation in software development, w
 ## 🛠 Technical Skills
 
 ### Programming Languages & Frameworks
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
