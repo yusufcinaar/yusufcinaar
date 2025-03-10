@@ -16,7 +16,7 @@ Information Systems and Technologies student with a strong foundation in softwar
 
 ## 🛠 Technical Skills
 
-### Programming Languages & Frameworks
+### Programming Languages 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
