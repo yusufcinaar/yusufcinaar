@@ -3,7 +3,7 @@
 ## About Me
 Information Systems and Technologies student with a strong foundation in software development, web technologies, and data analysis. Passionate about creating innovative solutions and learning new technologies.
 
-🎓 Information Systems and Technologies Student at Turkish University  
+🎓 Information Systems and Technologies Student at Mehmet Akif Ersoy University  
 💻 Focused on Web Development & Mobile Applications  
 🌱 Currently learning Advanced Web Technologies and Mobile Development  
 📫 How to reach me: yusufcinar011@gmail.com
