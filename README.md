@@ -1,58 +1,79 @@
 # Hi, I'm Yusuf Çınar 👋
 
-## About Me
-Information Systems and Technologies student with a strong foundation in software development, web technologies, and data analysis. Passionate about creating innovative solutions and learning new technologies.
+**IT Specialist | Software Developer**
 
-🎓 Information Systems and Technologies Student at Mehmet Akif Ersoy University  
-📫 How to reach me: yusufcinar011@gmail.com
+I'm an Information Systems and Technologies graduate from Mehmet Akif Ersoy University, with experience in IT operations, network infrastructure, enterprise applications, and end-user support.
 
-## 🎯 Expertise Areas
-- Web Development & Design
-- Mobile Application Development
-- Database Management Systems
-- Digital Electronics
-- Machine Learning Fundamentals
-- Data Structures and Algorithms
+Alongside my IT work, I develop web and mobile applications using Python, Flutter, and SQL. I enjoy turning everyday operational needs into practical software solutions.
 
-## 🛠 Technical Skills
+- 🎓 BSc in Information Systems and Technologies
+- 💼 IT experience in hospitality and public sector environments
+- 💻 Interested in software development, automation, and system integration
+- 📍 Istanbul, Türkiye
+- 📫 yusufcinar011@gmail.com
 
-### Programming Languages 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Tools & Technologies
-![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
-![Database](https://img.shields.io/badge/-Database-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Electronics](https://img.shields.io/badge/-Electronics-00979D?style=flat-square&logo=arduino&logoColor=white)
-
-## 📚 Key Coursework
+## 🛠️ Technical Skills
 
 ### Software Development
-- Digital Image Analysis
-- Mobile Programming
-- Object-Oriented Programming
-- Data Structures and Algorithms
-- Web Design & Development
-- Database Management Systems
 
-### Electronics & Systems
-- Digital Electronics
-- Basic Electronics
-- Computer Networks
-- Information Security
+- **Languages:** Python, Dart, JavaScript, SQL, HTML, CSS
+- **Frameworks & Libraries:** Flutter, Flask, OpenCV
+- **Databases & Platforms:** MySQL, SQLite, Microsoft SQL Server, Firebase
 
-### Mathematics & Analysis
-- Statistics
-- Financial Analysis
-- Research Methods
-- Digital Signal Processing
+### IT Operations
 
+- **Networking:** TCP/IP, VLANs, DHCP, Wi-Fi troubleshooting
+- **Infrastructure:** FortiGate, UniFi, HP/Aruba switches
+- **Systems & Applications:** Windows, Opera PMS, IP cameras, and NVR systems
+- **Support:** Hardware troubleshooting, software installation, and end-user support
 
+## 🚀 Selected Projects
+
+### Face Recognition Attendance System
+
+An attendance application built with Python, OpenCV, face_recognition, and SQLite.
+
+- Identifies registered students through a camera
+- Records attendance with timestamps
+- Provides a desktop interface for reviewing attendance history
+
+### Personnel Shuttle Tracking Application
+
+A web application developed during my internship at TOKİ to track personnel shuttle usage.
+
+- Records shuttle entry and exit times
+- Stores usage data in MySQL
+- Supports reporting and operational follow-up
+
+### Municipal Complaint Application
+
+A mobile application built with Flutter and Firebase.
+
+- Allows users to submit complaints
+- Enables users to track complaint status
+- Uses Firebase for data storage and updates
+
+## 💼 Previous Experience
+
+### IT Specialist — The Green Park Hotels & Resorts
+
+- Provided IT support across seven hotel locations
+- Troubleshot network, Wi-Fi, hardware, and application issues
+- Supported Opera PMS, camera systems, and digital signage
+- Assisted with device inventory and Windows upgrade planning
+
+### IT Intern — TOKİ
+
+- Completed a 75-workday workplace training program
+- Supported hardware installation and troubleshooting
+- Developed a personnel shuttle tracking web application
+- Contributed to website updates and SQL-related tasks
+
+## 📚 Academic Background
+
+Object-Oriented Programming · Data Structures & Algorithms · Database Management Systems · Computer Networks · Information Security · Digital Image Analysis · Mobile Programming
 
 ## 🤝 Connect with Me
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yusufcinaar)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yusufcinar011@gmail.com)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yusufcinaar)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yusufcinar011@gmail.com)
