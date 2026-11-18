@@ -53,7 +53,7 @@ A mobile application built with Flutter and Firebase.
 - Enables users to track complaint status
 - Uses Firebase for data storage and updates
 
-## 💼 Previous Experience
+## 💼 Experience
 
 ### IT Specialist — The Green Park Hotels & Resorts
 
